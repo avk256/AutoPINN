@@ -1,0 +1,8 @@
+id;value;Explanation;Data Type;Characters
+1;id;Порядковий номер запису;ushort;5
+2;TITLE OF THE INSTITUTION;Назва закладу;string;200
+3;YEAR;Рік;ushort;4
+4;THERMAL ENERGY, GCAL;Теплова енергія, Гкал;ushort;10
+5;ELECTRICITY, kWh;Електроенергія, кВт;ushort;10
+6;NATURAL GAS, mcub;Природний газ, м.куб.;ushort;10
+7;WATER SUPPLY, mcub;Водопостачання, м.куб.;ushort;10
